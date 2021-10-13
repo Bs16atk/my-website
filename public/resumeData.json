@@ -10,8 +10,9 @@
     "phone": "07977297742",
     "address": {
       "street": "Wirral, Merseyside",
-      "state": "Leamington Spa",
-      "zip": "Warwickshire"
+      "city": "UK",
+      "state": "United Kingdom",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
