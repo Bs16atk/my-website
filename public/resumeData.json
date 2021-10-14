@@ -136,12 +136,13 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Mr Kent is a cheerful, engaging person who has potential for an excellent professional career in a range of business or technology-oriented areas. I have no hesitation in unreservedly supporting his application for work in your company.",
+        "user": "Dr. Vas Ponnambalam - University of Leeds"
+        
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I know Adam in the capacity of teaching him several computer science modules including Big Data Analytics. Adam has demonstrated his commitment to study and has a good attendance record, demonstrated excellent organisational skills, always handing in his well-written work on time or early. He has ability to solve any problems encountered quickly and effectively with or without supervision, he is also a friendly individual who is bright and motivated and always willing to learn and develop.",
+        "user": "Dr. Amen Bakhtiar - University of Liverpool"
       }
     ]
   }
