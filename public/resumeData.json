@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Adam Kent",
-    "occupation": "Data Scientist and CS Graduate",
+    "occupation": "Data Scientist and Keen Developer",
     "description": "I have a background in coding, starting over 10 years ago, with a Masters Degree in Computer Science from the University of Liverpool.",
     "image": "profilepic.jpg",
-    "bio": "A keen developer, with an interest in Machine Learning and Front-end development. My language of choice is Python, however I also have experience in React, VB.NET, Java, and PHP.",
-    "contactmessage": "If you would like to reach out to me, please use the form below!",
+    "bio": "I have an interest in Machine Learning and Front-end development. I currently work in a Data Scientist role predomininatly in Python frameworks, however I also have informal experience in React, VB.NET, Java, and PHP.",
+    "contactmessage": "If you would like to reach out to me, please email me on bs16atk@gmail.com (Form below is currently in development).",
     "email": "bs16atk@gmail.com",
     "phone": "07977297742",
     "address": {
@@ -49,7 +49,7 @@
     "education": [
       {
         "school": "University of Liverpool",
-        "degree": "Masters in Computer Science",
+        "degree": "Masters in Computer Science (Distinction)",
         "graduated": "October 2021",
         "description": "Machine Learning classification of music by its respective genre. Also covered: Web Development, Artificial Intelligence, Database Systems, E-commerce Technologies."
       },
@@ -118,12 +118,6 @@
         "category": "Github repository",
         "image": "github.JPG",
         "url": "http://www.github.com/adamkent"
-      },
-      {
-        "title": "SK Brickwork",
-        "category": "Static website built for property repairs company",
-        "image": "skbrickwork.JPG",
-        "url": "http://www.skbrickwork.co.uk/"
       },
       {
         "title": "Personal Website",
