@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Adam Kent",
-    "occupation": "Data Scientist and CS Graduate",
+    "occupation": "Software Engineer and CS graduate",
     "description": "I have a background in coding, starting over 10 years ago, with a Masters Degree in Computer Science from the University of Liverpool.",
     "image": "profilepic.jpg",
-    "bio": "A keen developer, with an interest in Machine Learning and Front-end development. My language of choice is Python, however I also have experience in React, VB.NET, Java, and PHP.",
-    "contactmessage": "If you would like to reach out to me, please use the form below!",
+    "bio": "I have worked in several companies, including the UK Government and Bank Of America.",
+    "contactmessage": "If you would like to reach out to me, please contact me by email or phone, the below form currently is not monitored.",
     "email": "bs16atk@gmail.com",
     "phone": "07977297742",
     "address": {
@@ -19,12 +19,12 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/adamkent98",
+        "url": "http://facebook.com/",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com/adamthomaskent",
+        "url": "http://twitter.com/",
         "className": "fa fa-twitter"
       },
       {
@@ -55,23 +55,28 @@
       },
       {
         "school": "University of Leeds",
-        "degree": "Degree in Biotechnology with Enterprise",
         "graduated": "July 2019",
-        "description": "Multi-disciplinary degree with a focus in the Biosciences and Business Development."
+        "description": "Multi-disciplinary degree with a focus in Business Development."
       }
     ],
     "work": [
       {
-        "company": "UK Health Security Agency",
-        "title": "Data Scientist",
-        "years": "August 2021 - Present",
-        "description": "Developing code to contribute to the smooth running of robotics and lab systems, Analysing ePCR data using Python visualisation packages, Administrating Oracle and MS-SQL databases."
+        "company": "Zifo Technologies Ltd",
+        "title" : "Consultant Python Developer",
+        "years" : "2022",
+        "description" : "Providing consulting services as a Python/Javascript developer to high-profile clients including GSK, Nvidia and AstraZeneca."
+      }
+      {
+        "company": "Bank Of America - London",
+        "title": "Assistant Vice President - Software Engineer III",
+        "years": "2022",
+        "description": "Developing and maintaining components of bespoke in-house trading stack."
       },
       {
-        "company": "PureGym Limited",
-        "title": "Member Services Associate",
-        "years": "June 2018 - Jan 2019",
-        "description": "Achieved the highest sales conversion rate for two consecutive months, exceeding all KPIs."
+        "company": "UK Health Security Agency",
+        "title": "Data Scientist",
+        "years": "2021",
+        "description": "Developing code to contribute to the smooth running of robotics and lab systems, Analysing ePCR data using Python visualisation packages, Administrating Oracle and MS-SQL databases."
       }
     ],
     "skills": [
@@ -80,16 +85,12 @@
         "level": "70%"
       },
       {
-        "name": "Photoshop",
+        "name": "AWS",
         "level": "80%"
       },
       {
         "name": "ReactJs",
         "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "80%"
       },
       {
         "name": "HTML5",
@@ -98,10 +99,6 @@
       {
         "name": "MySQL",
         "level": "70%"
-      },
-      {
-        "name": "C++",
-        "level": "10%"
       }
     ]
   },
