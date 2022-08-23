@@ -9,7 +9,7 @@
     "occupation": "Data Scientist and Keen Developer",
     "description": "I have a background in coding, starting over 10 years ago, with a Masters Degree in Computer Science from the University of Liverpool.",
     "image": "profilepic.jpg",
-    "bio": "I have an interest in Machine Learning and Front-end development. I currently work in a Data Scientist role predomininatly in Python frameworks, however I also have informal experience in React, VB.NET, Java, and PHP.",
+    "bio": "I have worked in several companies, including the UK Government and Bank Of America.",
     "contactmessage": "If you would like to reach out to me, please email me on bs16atk@gmail.com (Form below is currently in development).",
     "email": "bs16atk@gmail.com",
     "phone": "07977297742",
@@ -70,7 +70,7 @@
         "title" : "Consultant Python Developer",
         "years" : "2022",
         "description" : "Providing consulting services as a Python/Javascript developer to high-profile clients including GSK, Nvidia and AstraZeneca."
-      }
+      },
       {
         "company": "Bank Of America - London",
         "title": "Assistant Vice President - Software Engineer III",
