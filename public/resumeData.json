@@ -4,12 +4,12 @@
     "occupation": "Software Engineer and CS graduate",
     "description": "I have a background in coding, starting over 10 years ago, with a Masters Degree in Computer Science from the University of Liverpool.",
     "image": "profilepic.jpg",
-    "bio": "I have worked in several companies, including the UK Government and Bank Of America.",
+    "bio": "Since starting employment alongside my postgraduate studies, I have worked for several companies, including the UK Government, and the Bank Of America in the City of London.",
     "contactmessage": "If you would like to reach out to me, please contact me by email or phone, the below form currently is not monitored.",
-    "occupation": "Data Scientist and Keen Developer",
+    "occupation": "Software Engineer and Python Developer",
     "description": "I have a background in coding, starting over 10 years ago, with a Masters Degree in Computer Science from the University of Liverpool.",
     "image": "profilepic.jpg",
-    "bio": "I have worked in several companies, including the UK Government and Bank Of America.",
+    "bio": "Since starting employment alongside my postgraduate studies, I have worked for several companies, including the UK Government, and the Bank Of America in the City of London.",
     "contactmessage": "If you would like to reach out to me, please email me on bs16atk@gmail.com (Form below is currently in development).",
     "email": "bs16atk@gmail.com",
     "phone": "07977297742",
@@ -55,33 +55,33 @@
       {
         "school": "University of Liverpool",
         "degree": "Masters in Computer Science (Distinction)",
-        "graduated": "October 2021",
+        "graduated": "2021",
         "description": "Machine Learning classification of music by its respective genre. Also covered: Web Development, Artificial Intelligence, Database Systems, E-commerce Technologies."
       },
       {
         "school": "University of Leeds",
         "degree": "Bachelor of Science",
-        "graduated": "July 2019",
-        "description": "This degree programme was part of the award-winning 'with Enterprise' group of courses."
+        "graduated": "2019",
+        "description": ""
       }
     ],
     "work": [
       {
         "company": "Zifo Technologies Ltd",
         "title" : "Consultant Python Developer",
-        "years" : "2022",
+        "years" : "2022 - 2022",
         "description" : "Providing consulting services as a Python/Javascript developer to high-profile clients including GSK, Nvidia and AstraZeneca."
       },
       {
-        "company": "Bank Of America - London",
+        "company": "Bank Of America",
         "title": "Assistant Vice President - Software Engineer III",
-        "years": "2022",
+        "years": "2022 - 2022",
         "description": "Developing and maintaining components of bespoke in-house trading stack."
       },
       {
         "company": "UK Health Security Agency",
         "title": "Data Scientist",
-        "years": "2021",
+        "years": "2021 - 2022",
         "description": "Developing code to contribute to the smooth running of robotics and lab systems, Analysing ePCR data using Python visualisation packages, Administrating Oracle and MS-SQL databases."
       }
     ],
