@@ -9,18 +9,18 @@
     "occupation": "Software Engineer and Python Developer",
     "description": "I have a background in coding, starting over 10 years ago, with a Masters Degree in Computer Science from the University of Liverpool.",
     "image": "profilepic.jpg",
-    "bio": "Since starting employment alongside my postgraduate studies, I have worked for several companies, including the UK Government, and the Bank Of America in the City of London.",
+    "bio": "I have worked as a Data Scientist and Developer for several organisations, including the UK Government Department of Health and Social Care, Bank of America in the City of London, and tech start-ups.",
     "contactmessage": "If you would like to reach out to me, please email me on bs16atk@gmail.com (Form below is currently in development).",
     "email": "bs16atk@gmail.com",
     "phone": "07977297742",
     "address": {
       "street": "Wirral, Merseyside",
-      "city": "UK",
+      "city": "Wirral,",
       "state": "United Kingdom",
       "zip": ""
     },
-    "website": "adamkent.me.uk",
-    "resumedownload": "resume.pdf",
+    "website": "adamkent.net",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -56,7 +56,7 @@
         "school": "University of Liverpool",
         "degree": "Masters in Computer Science (Distinction)",
         "graduated": "2021",
-        "description": "Machine Learning classification of music by its respective genre. Also covered: Web Development, Artificial Intelligence, Database Systems, E-commerce Technologies."
+        "description": "Final Project: Machine Learning classification of music by its respective genre. Also covered: Web Development, Artificial Intelligence, Database Systems, E-commerce Technologies."
       },
       {
         "school": "University of Leeds",
@@ -79,7 +79,7 @@
         "description": "Developing and maintaining components of bespoke in-house trading stack."
       },
       {
-        "company": "UK Health Security Agency",
+        "company": "UK Health Security Agency/Department of Health and Social Care",
         "title": "Data Scientist",
         "years": "2021 - 2022",
         "description": "Developing code to contribute to the smooth running of robotics and lab systems, Analysing ePCR data using Python visualisation packages, Administrating Oracle and MS-SQL databases."
@@ -115,18 +115,6 @@
         "category": "Machine Learning classifcation of music by its genre",
         "image": "project.JPG",
         "url": "https://www.github.com/adamkent/FinalProject"
-      },
-      {
-        "title": "Uni work examples",
-        "category": "Github repository",
-        "image": "github.JPG",
-        "url": "http://www.github.com/adamkent"
-      },
-      {
-        "title": "Personal Website",
-        "category": "A React based personal webpage",
-        "image": "personalwebsite.JPG",
-        "url": "http://adamtkent.com/"
       }
     ]
   },
