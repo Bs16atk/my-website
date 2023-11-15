@@ -31,15 +31,12 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						         {city} {state}, {zip}
-                   </span><br />
+						   <span>{city} {state}</span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
                </div>
                <div className="columns download">
-                  <p>
-                  </p>
                </div>
             </div>
          </div>
